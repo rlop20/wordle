@@ -1,0 +1,8 @@
+Put Java classes here:
+Game.java
+Hint.java
+LetterBox.java (incomplete)
+WordBank.java
+WordleChecker.java
+WordleGUI.java
+Rule.java
